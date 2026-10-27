@@ -1,0 +1,416 @@
+{
+  "start": "2025-05-02 00:00:00",
+  "end": "2026-05-26 23:55:00",
+  "timezone": "Asia/Kolkata",
+  "review_filtered": true,
+  "coverage_threshold": 0.9,
+  "clustering": "K-means mean-one complete daily load shapes; 14 days minimum",
+  "benchmark": "area \u00b115%, identical BHK/orientation, floor \u00b14, >=2 peers and 168 simultaneous hours",
+  "indoor_status": "No indoor time series supplied; import required",
+  "models": [
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Cielo F106",
+      "target": "total_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Cielo F106",
+      "target": "ac_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Elite A401",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 18.5,
+      "slope": 0.0008200409870296352,
+      "slope_low": 0.00019626838325583265,
+      "slope_high": 0.0014438135908034378,
+      "holdout_r2": -1867203.911319857,
+      "mae_kw": 0.002511904500516739,
+      "calendar_mae_kw": 0.00392816622304696,
+      "supported": false,
+      "train_hours": 4443,
+      "test_hours": 988,
+      "paired_days": 249,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.574,
+        "humidity": 86.883
+      },
+      "cutoff": "2025-11-28 00:00:00",
+      "apartment": "Elite A401",
+      "target": "ac_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Elite I 901",
+      "target": "total_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Elite I 901",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 19.5,
+      "slope": 0.0031354254633087957,
+      "slope_low": 0.0018460311859131004,
+      "slope_high": 0.004424819740704491,
+      "holdout_r2": -0.020592765568346882,
+      "mae_kw": 0.08162292017241984,
+      "calendar_mae_kw": 0.08038790010145089,
+      "supported": false,
+      "train_hours": 4441,
+      "test_hours": 1063,
+      "paired_days": 275,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.336,
+        "humidity": 86.168
+      },
+      "cutoff": "2025-12-28 00:00:00",
+      "apartment": "Lagoona B104",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 26.0,
+      "slope": 0.002210472221372831,
+      "slope_low": 0.0015472247532050689,
+      "slope_high": 0.002873719689540593,
+      "holdout_r2": -0.013436491546093832,
+      "mae_kw": 0.043328350839468815,
+      "calendar_mae_kw": 0.040837273008459414,
+      "supported": false,
+      "train_hours": 4441,
+      "test_hours": 1063,
+      "paired_days": 275,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.336,
+        "humidity": 86.168
+      },
+      "cutoff": "2025-12-28 00:00:00",
+      "apartment": "Lagoona B104",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 19.0,
+      "slope": 0.0072093901258171176,
+      "slope_low": 0.0025214718025912365,
+      "slope_high": 0.011897308449043,
+      "holdout_r2": 0.2030783157279792,
+      "mae_kw": 0.10328893373465067,
+      "calendar_mae_kw": 0.11719249699668403,
+      "supported": true,
+      "train_hours": 2293,
+      "test_hours": 514,
+      "paired_days": 130,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 25.358,
+        "humidity": 82.958
+      },
+      "cutoff": "2025-12-24 00:00:00",
+      "apartment": "Lakeside A 701",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 19.5,
+      "slope": 0.004694396478504768,
+      "slope_low": 0.001283878435268405,
+      "slope_high": 0.00810491452174113,
+      "holdout_r2": null,
+      "mae_kw": 0.010294048375047675,
+      "calendar_mae_kw": 0.010966859013028886,
+      "supported": false,
+      "train_hours": 2293,
+      "test_hours": 514,
+      "paired_days": 130,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 25.358,
+        "humidity": 82.958
+      },
+      "cutoff": "2025-12-24 00:00:00",
+      "apartment": "Lakeside A 701",
+      "target": "ac_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Lakeside B 101",
+      "target": "total_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Lakeside B 101",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 26.0,
+      "slope": 0.022813788825342636,
+      "slope_low": 0.014007350653107438,
+      "slope_high": 0.031620226997577834,
+      "holdout_r2": -0.019469851991299914,
+      "mae_kw": 0.4700718843706796,
+      "calendar_mae_kw": 0.46552093450799903,
+      "supported": false,
+      "train_hours": 4928,
+      "test_hours": 1114,
+      "paired_days": 280,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.4335,
+        "humidity": 85.42150000000001
+      },
+      "cutoff": "2025-12-27 00:00:00",
+      "apartment": "Lakeside K 502",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 26.0,
+      "slope": 0.019999422733629844,
+      "slope_low": 0.013803844719768353,
+      "slope_high": 0.026195000747491336,
+      "holdout_r2": -0.02795436326638656,
+      "mae_kw": 0.36019688695529906,
+      "calendar_mae_kw": 0.33453857813537746,
+      "supported": false,
+      "train_hours": 4928,
+      "test_hours": 1114,
+      "paired_days": 280,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.4335,
+        "humidity": 85.42150000000001
+      },
+      "cutoff": "2025-12-27 00:00:00",
+      "apartment": "Lakeside K 502",
+      "target": "ac_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 19 days / 408 hours.",
+      "apartment": "Lakeside O 1106",
+      "target": "total_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 19 days / 408 hours.",
+      "apartment": "Lakeside O 1106",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 18.0,
+      "slope": 0.007571824768033858,
+      "slope_low": 0.004863185101685338,
+      "slope_high": 0.010280464434382379,
+      "holdout_r2": -0.061984537216802194,
+      "mae_kw": 0.14284602221366677,
+      "calendar_mae_kw": 0.14729463386637967,
+      "supported": false,
+      "train_hours": 3629,
+      "test_hours": 886,
+      "paired_days": 212,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": true,
+      "reference_weather": {
+        "temperature": 25.462,
+        "humidity": 84.714
+      },
+      "cutoff": "2026-01-23 00:00:00",
+      "apartment": "Marvella G1403",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 19.5,
+      "slope": 0.0020980352085889814,
+      "slope_low": 0.000376425837981762,
+      "slope_high": 0.003819644579196201,
+      "holdout_r2": -0.04762027233783939,
+      "mae_kw": 0.10088829184831777,
+      "calendar_mae_kw": 0.0956851092658104,
+      "supported": false,
+      "train_hours": 3628,
+      "test_hours": 886,
+      "paired_days": 212,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 25.462,
+        "humidity": 84.7105
+      },
+      "cutoff": "2026-01-23 00:00:00",
+      "apartment": "Marvella G1403",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 26.5,
+      "slope": -0.0019955901251869335,
+      "slope_low": -0.008525515362228684,
+      "slope_high": 0.004534335111854816,
+      "holdout_r2": 0.09977883803205823,
+      "mae_kw": 0.21239667949461233,
+      "calendar_mae_kw": 0.20699220851527378,
+      "supported": false,
+      "train_hours": 3972,
+      "test_hours": 1012,
+      "paired_days": 250,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.778,
+        "humidity": 86.0185
+      },
+      "cutoff": "2025-11-28 00:00:00",
+      "apartment": "Urabno Q606",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 20.0,
+      "slope": 0.008812281327029691,
+      "slope_low": 0.006499853580655877,
+      "slope_high": 0.011124709073403505,
+      "holdout_r2": -0.25297444827194715,
+      "mae_kw": 0.06330707055351799,
+      "calendar_mae_kw": 0.07613269022499915,
+      "supported": false,
+      "train_hours": 3970,
+      "test_hours": 1012,
+      "paired_days": 250,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 26.777,
+        "humidity": 86.0215
+      },
+      "cutoff": "2025-11-28 00:00:00",
+      "apartment": "Urabno Q606",
+      "target": "ac_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 19.5,
+      "slope": 0.06457734668479118,
+      "slope_low": 0.037110883196726646,
+      "slope_high": 0.0920438101728557,
+      "holdout_r2": 0.20979406071182505,
+      "mae_kw": 0.5271213755503684,
+      "calendar_mae_kw": 0.6488343197522939,
+      "supported": true,
+      "train_hours": 628,
+      "test_hours": 152,
+      "paired_days": 42,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": false,
+      "reference_weather": {
+        "temperature": 25.3335,
+        "humidity": 83.1545
+      },
+      "cutoff": "2026-01-30 00:00:00",
+      "apartment": "Urbano M501",
+      "target": "total_kw"
+    },
+    {
+      "ok": true,
+      "base_c": 18.0,
+      "slope": 0.04696114950369828,
+      "slope_low": 0.024360416664040895,
+      "slope_high": 0.06956188234335567,
+      "holdout_r2": 0.10946273297273468,
+      "mae_kw": 0.5135502003654494,
+      "calendar_mae_kw": 0.6020085323595138,
+      "supported": true,
+      "train_hours": 628,
+      "test_hours": 152,
+      "paired_days": 42,
+      "features": [
+        "Cooling degree term",
+        "humidity"
+      ],
+      "change_point_at_search_boundary": true,
+      "reference_weather": {
+        "temperature": 25.3335,
+        "humidity": 83.1545
+      },
+      "cutoff": "2026-01-30 00:00:00",
+      "apartment": "Urbano M501",
+      "target": "ac_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Viento A 1102",
+      "target": "total_kw"
+    },
+    {
+      "ok": false,
+      "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+      "apartment": "Viento A 1102",
+      "target": "ac_kw"
+    }
+  ]
+}

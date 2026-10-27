@@ -1,0 +1,13 @@
+apartment,file,floor,building_type,flat_type,orientation,area_m2,default_cohort
+Cielo F106,Cielo F106.csv,1,B3,2 BHK ULTIMA,SOUTH,68.47,True
+Elite A401,Elite A401.csv,4,A1,1 BHK,NORTH,47.29,False
+Elite I 901,Elite I 901.csv,9,A2,2 BHK OPTIMA,NORTH,59.92,True
+Lagoona B104,Lagoona B104.csv,1,B2,3 BHK,NORTH,82.68,True
+Lakeside A 701,Lakeside A 701.csv,7,B3,2 BHK ULTIMA,SOUTH,68.66,True
+Lakeside B 101,Lakeside B 101.csv,1,B3,2 BHK ULTIMA,SOUTH,68.66,False
+Lakeside K 502,Lakeside K 502.csv,5,B2,3 BHK,SOUTH,78.6,True
+Lakeside O 1106,Lakeside O 1106.csv,11,B3,2 BHK ULTIMA,NORTH,68.66,True
+Marvella G1403,Marvella G1403.csv,14,,,,62.71,True
+Urabno Q606,Urabno Q606.csv,6,B3.1,2 BHK ULTIMA,SOUTH,68.38,True
+Urbano M501,Urbano M501.csv,5,B1.1,2 BHK ULTIMA,SOUTH,68.66,True
+Viento A 1102,Viento A 1102.csv,11,B1,2 BHK ULTIMA,SOUTH,68.47,True

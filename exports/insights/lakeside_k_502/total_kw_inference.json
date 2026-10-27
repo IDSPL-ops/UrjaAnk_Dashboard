@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 26.0,
+  "slope": 0.022813788825342636,
+  "slope_low": 0.014007350653107438,
+  "slope_high": 0.031620226997577834,
+  "holdout_r2": -0.019469851991299914,
+  "mae_kw": 0.4700718843706796,
+  "calendar_mae_kw": 0.46552093450799903,
+  "supported": false,
+  "train_hours": 4928,
+  "test_hours": 1114,
+  "paired_days": 280,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": false,
+  "reference_weather": {
+    "temperature": 26.4335,
+    "humidity": 85.42150000000001
+  },
+  "cutoff": "2025-12-27 00:00:00",
+  "apartment": "Lakeside K 502",
+  "target": "total_kw"
+}

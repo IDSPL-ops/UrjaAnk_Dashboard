@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 18.5,
+  "slope": 0.0008200409870296352,
+  "slope_low": 0.00019626838325583265,
+  "slope_high": 0.0014438135908034378,
+  "holdout_r2": -1867203.911319857,
+  "mae_kw": 0.002511904500516739,
+  "calendar_mae_kw": 0.00392816622304696,
+  "supported": false,
+  "train_hours": 4443,
+  "test_hours": 988,
+  "paired_days": 249,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": false,
+  "reference_weather": {
+    "temperature": 26.574,
+    "humidity": 86.883
+  },
+  "cutoff": "2025-11-28 00:00:00",
+  "apartment": "Elite A401",
+  "target": "ac_kw"
+}

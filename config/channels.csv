@@ -1,0 +1,212 @@
+apartment,channel,category,measurement_role,phase_alias,phase,mapping_status,source
+Cielo F106,Cielo F106 - Bedroom AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Bedroom Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Kitchen Lighting,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Living AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Living Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Oven,Oven,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Store and Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Master Bed Light,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Master Bed Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Master Bedroom AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Cielo F106,Cielo F106 - Others,Other,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Fridge,Fridge,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Kitchen and Utility Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Living AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Living Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Master Bed Light,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Master Bedroom AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Oven,Oven,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Spare1,Other,Submetered appliance/circuit,False,"R Phase,Y Phase",Conflicting phases,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Spare2,Other,Submetered appliance/circuit,False,"R Phase,Y Phase",Conflicting phases,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Terrace and Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Bath Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Washroom Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite A401,Elite A401 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Common Toilet Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Common Toilet store Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Living AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Living and Terrace Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Oven,Oven,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Passage and Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Study Kitchen and Utility Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Study room AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Master Bed and Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Master Bedroom AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Others,Other,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Elite I 901,Elite I 901 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Bed Fans & Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Bed1 AC and Washroom Lights,Mixed circuit,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Bed1 Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Bed2 AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Common Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Foyer/ Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Living Room AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Living Room Fans & Lights,Lights & Fans (combined),Submetered appliance/circuit,False,"B Phase,R Phase,Y Phase",Conflicting phases,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Master Bed & Common Toi Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Master Bedroom AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Master Bedroom Fans & Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lagoona B104,Lagoona B104 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Bed1 AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Common Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Kitchen Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Living AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Living Fans & Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Main Incomer,Phase,Apartment phase meter,True,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Master Bed AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Master Bed Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Master Bed Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Master Toilet Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Oven,Oven,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Sofa Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Spare,Other,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Store and Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside A 701,Lakeside A 701 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Dining Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Living AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Living Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Master AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Master Bed Toilet Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Master Bedroom Lights annd Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Master Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Pooja Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Spare,Other,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Bed AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Bedroom Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Common Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - Kitchen Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside B 101,Lakeside B 101 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Bed Toilet Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Bed1 AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Bed1 Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Fridge,Fridge,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Kitchen and Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Living AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Living and Terrace Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Master Bed Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Master Bedroom AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Oven,Oven,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Store and Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Study room AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Toilet and Study Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside K 502,Lakeside K 502 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Bedroom AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Bedroom Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Common Toilet Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Master Bed and Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Master Bedroom AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Master Bedroom Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Oven,Oven,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,P[5],Other,Submetered appliance/circuit,False,,Missing in workbook,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Living AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Living Room Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Store and Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Lakeside O 1106,Lakeside O 1106 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Bed and CT Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Bedroom AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Common Toilet Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - ELV DB Power,Other,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Fridge,Fridge,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Kitchen Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Living Dining AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Living and Dining Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Master Bed AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Master Bed Toilet Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Master Toilet Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Oven,Oven,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Study Room AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Study Room Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Utility Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Marvella G1403,Marvella G1403 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Bed1 AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Bed1 Bedroom and Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Bed1 Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Bed1 Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Kitchen Fridge,Fridge,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Kitchen Lighting,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Living AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Master Bed Light,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Master Bed Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Master Bedroom AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - No Load,Other,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Oven,Oven,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Passage Dining Balcony Light,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urabno Q606,Urabno Q606 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Bed1 AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Bed1 Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Bedroom Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Fridge,Fridge,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Kitchen Lighting,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Living AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Living Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Master Bed AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Master Bed Geyser,Geyser,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Master Bed Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Master Bed Toilet  Lights Fans,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Others,Other,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Oven,Oven,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - WC and Bath Lights and Fans,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Urbano M501,Urbano M501 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - B Phase,Phase,Apartment phase meter,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Dining Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Living Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Living and Dining AC,AC,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Master Bedroom AC,AC,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Master Bedroom Geyser,Geyser,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Master Bedroom Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Master Bedroom and Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Others,Other,Submetered appliance/circuit,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - R Phase,Phase,Apartment phase meter,False,R Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Store and Pooja Lights,Lights & Fans (combined),Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Washing Machine,Washing Machine,Submetered appliance/circuit,False,B Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Bedroom AC,AC,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Bedroom Toilet Lights,Lights & Fans (combined),Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Common Toilet Geyser,Geyser,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Fridge,Fridge,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Oven,Oven,Submetered appliance/circuit,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx
+Viento A 1102,Viento A 1102 - Y Phase,Phase,Apartment phase meter,False,Y Phase,Mapped,Lodha-Apartments-Sensors-mapping_modified(1).xlsx

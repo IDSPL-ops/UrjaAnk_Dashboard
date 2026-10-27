@@ -1,0 +1,12 @@
+apartment,area_m2,BHK,orientation,floor,match,reason
+Cielo F106,68.47,2.0,SOUTH,1,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Elite I 901,59.92,2.0,NORTH,9,False,Outside area tolerance; BHK mismatch/unavailable; Floor mismatch/unavailable
+Lagoona B104,82.68,3.0,NORTH,1,False,Outside area tolerance; BHK mismatch/unavailable
+Lakeside A 701,68.66,2.0,SOUTH,7,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Lakeside B 101,68.66,2.0,SOUTH,1,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Lakeside K 502,78.6,3.0,SOUTH,5,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Lakeside O 1106,68.66,2.0,NORTH,11,False,Outside area tolerance; BHK mismatch/unavailable; Floor mismatch/unavailable
+Marvella G1403,62.71,,,14,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable; Floor mismatch/unavailable
+Urabno Q606,68.38,2.0,SOUTH,6,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Urbano M501,68.66,2.0,SOUTH,5,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable
+Viento A 1102,68.47,2.0,SOUTH,11,False,Outside area tolerance; BHK mismatch/unavailable; Orientation mismatch/unavailable; Floor mismatch/unavailable

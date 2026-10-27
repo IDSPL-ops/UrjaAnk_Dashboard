@@ -1,0 +1,6 @@
+{
+  "ok": false,
+  "reason": "Need 30 paired days and 240 valid hours; found 19 days / 408 hours.",
+  "apartment": "Lakeside O 1106",
+  "target": "total_kw"
+}

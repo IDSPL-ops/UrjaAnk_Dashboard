@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 18.0,
+  "slope": 0.04696114950369828,
+  "slope_low": 0.024360416664040895,
+  "slope_high": 0.06956188234335567,
+  "holdout_r2": 0.10946273297273468,
+  "mae_kw": 0.5135502003654494,
+  "calendar_mae_kw": 0.6020085323595138,
+  "supported": true,
+  "train_hours": 628,
+  "test_hours": 152,
+  "paired_days": 42,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": true,
+  "reference_weather": {
+    "temperature": 25.3335,
+    "humidity": 83.1545
+  },
+  "cutoff": "2026-01-30 00:00:00",
+  "apartment": "Urbano M501",
+  "target": "ac_kw"
+}

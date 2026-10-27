@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 18.0,
+  "slope": 0.007571824768033858,
+  "slope_low": 0.004863185101685338,
+  "slope_high": 0.010280464434382379,
+  "holdout_r2": -0.061984537216802194,
+  "mae_kw": 0.14284602221366677,
+  "calendar_mae_kw": 0.14729463386637967,
+  "supported": false,
+  "train_hours": 3629,
+  "test_hours": 886,
+  "paired_days": 212,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": true,
+  "reference_weather": {
+    "temperature": 25.462,
+    "humidity": 84.714
+  },
+  "cutoff": "2026-01-23 00:00:00",
+  "apartment": "Marvella G1403",
+  "target": "total_kw"
+}

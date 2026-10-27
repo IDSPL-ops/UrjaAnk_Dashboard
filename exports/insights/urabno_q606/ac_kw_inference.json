@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 20.0,
+  "slope": 0.008812281327029691,
+  "slope_low": 0.006499853580655877,
+  "slope_high": 0.011124709073403505,
+  "holdout_r2": -0.25297444827194715,
+  "mae_kw": 0.06330707055351799,
+  "calendar_mae_kw": 0.07613269022499915,
+  "supported": false,
+  "train_hours": 3970,
+  "test_hours": 1012,
+  "paired_days": 250,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": false,
+  "reference_weather": {
+    "temperature": 26.777,
+    "humidity": 86.0215
+  },
+  "cutoff": "2025-11-28 00:00:00",
+  "apartment": "Urabno Q606",
+  "target": "ac_kw"
+}

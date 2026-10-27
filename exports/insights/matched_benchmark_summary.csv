@@ -1,0 +1,13 @@
+apartment,available,actual_expected_ratio,paired_hours,peers,reason
+Cielo F106,False,,0,,Only 0 contemporaneous matched hours; 168 are required.
+Elite A401,False,,0,,Only 0 metadata-matched peer(s); two are required.
+Elite I 901,False,,0,,Only 1 metadata-matched peer(s); two are required.
+Lagoona B104,False,,0,,Only 0 metadata-matched peer(s); two are required.
+Lakeside A 701,True,0.6108571867409182,341,Urabno Q606; Urbano M501; Viento A 1102,
+Lakeside B 101,False,,0,,Only 0 contemporaneous matched hours; 168 are required.
+Lakeside K 502,False,,0,,Only 0 metadata-matched peer(s); two are required.
+Lakeside O 1106,False,,0,,Only 1 metadata-matched peer(s); two are required.
+Marvella G1403,False,,0,,Only 0 metadata-matched peer(s); two are required.
+Urabno Q606,True,1.626338377338771,341,Lakeside A 701; Urbano M501,
+Urbano M501,True,0.9306281658107536,341,Cielo F106; Lakeside A 701; Lakeside B 101; Urabno Q606,
+Viento A 1102,False,,0,,Only 1 metadata-matched peer(s); two are required.

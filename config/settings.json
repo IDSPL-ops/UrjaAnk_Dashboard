@@ -1,0 +1,51 @@
+{
+  "unit": "kW",
+  "unit_confirmed": true,
+  "timezone": "Asia/Kolkata",
+  "interval_minutes": 5,
+  "weather_interval_minutes": 60,
+  "weather_max_hold_minutes": 60,
+  "quality_min_day_coverage": 0.9,
+  "minimum_event_minutes": 5,
+  "outlier_caps_kw": {
+    "AC": 6,
+    "Washing Machine": 4,
+    "Geyser": 6,
+    "Oven": 6,
+    "Fridge": 2,
+    "Lights & Fans (combined)": 5,
+    "Mixed circuit": 10,
+    "Other": 10,
+    "Phase": 40
+  },
+  "state_noise_floor_kw": {
+    "AC": 0.03,
+    "Washing Machine": 0.015,
+    "Geyser": 0.05,
+    "Oven": 0.03,
+    "Fridge": 0.02
+  },
+  "seasons": {
+    "Summer": [
+      3,
+      4,
+      5
+    ],
+    "Monsoon": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "Mild": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ]
+  },
+  "note": "kW confirmed by user on 4 October 2026. Caps are review rules, editable in this file; they are not confirmed nameplate ratings. Five-minute readings treated as interval-representative power. Missing readings are never interpolated for electrical energy.",
+  "monitoring_start": "2025-05-01",
+  "monitoring_end": "2026-05-28"
+}

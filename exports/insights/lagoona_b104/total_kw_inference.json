@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 19.5,
+  "slope": 0.0031354254633087957,
+  "slope_low": 0.0018460311859131004,
+  "slope_high": 0.004424819740704491,
+  "holdout_r2": -0.020592765568346882,
+  "mae_kw": 0.08162292017241984,
+  "calendar_mae_kw": 0.08038790010145089,
+  "supported": false,
+  "train_hours": 4441,
+  "test_hours": 1063,
+  "paired_days": 275,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": false,
+  "reference_weather": {
+    "temperature": 26.336,
+    "humidity": 86.168
+  },
+  "cutoff": "2025-12-28 00:00:00",
+  "apartment": "Lagoona B104",
+  "target": "total_kw"
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "base_c": 19.0,
+  "slope": 0.0072093901258171176,
+  "slope_low": 0.0025214718025912365,
+  "slope_high": 0.011897308449043,
+  "holdout_r2": 0.2030783157279792,
+  "mae_kw": 0.10328893373465067,
+  "calendar_mae_kw": 0.11719249699668403,
+  "supported": true,
+  "train_hours": 2293,
+  "test_hours": 514,
+  "paired_days": 130,
+  "features": [
+    "Cooling degree term",
+    "humidity"
+  ],
+  "change_point_at_search_boundary": false,
+  "reference_weather": {
+    "temperature": 25.358,
+    "humidity": 82.958
+  },
+  "cutoff": "2025-12-24 00:00:00",
+  "apartment": "Lakeside A 701",
+  "target": "total_kw"
+}

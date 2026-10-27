@@ -1,0 +1,19 @@
+{
+  "start": "2025-05-02 00:00:00",
+  "end": "2026-05-26 23:55:00",
+  "timezone": "Asia/Kolkata",
+  "cohort": [
+    "Cielo F106",
+    "Elite I 901",
+    "Lagoona B104",
+    "Lakeside A 701",
+    "Lakeside K 502",
+    "Lakeside O 1106",
+    "Marvella G1403",
+    "Urabno Q606",
+    "Urbano M501",
+    "Viento A 1102"
+  ],
+  "apartment_count": 12,
+  "note": "Residual = R+B+Y minus all non-phase electrical channels. Paired phase/appliance/residual energy uses the same complete timestamps; negative residual remains signed. Review-filtered calculations. Native 15-minute intervals may have marked held support. Original reading counts control missing-data audit. Candidate standby needs field verification."
+}

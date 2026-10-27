@@ -1,0 +1,6 @@
+{
+  "ok": false,
+  "reason": "Need 30 paired days and 240 valid hours; found 0 days / 0 hours.",
+  "apartment": "Viento A 1102",
+  "target": "total_kw"
+}

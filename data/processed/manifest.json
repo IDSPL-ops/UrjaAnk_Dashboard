@@ -1,0 +1,304 @@
+{
+  "build_status": "complete",
+  "project_version": "2.0.0",
+  "electrical_definitions": {
+    "total_phase_kw": "R phase + B phase + Y phase",
+    "total_appliance_kw": "sum of every non-phase electrical channel, including lights/fans, mixed and unnamed submetered circuits",
+    "residual_kw": "total_phase_kw - total_appliance_kw on timestamps with all inputs valid",
+    "positive_residual": "Possible unmetered or unmapped load; not proven standby or avoidable energy",
+    "negative_residual": "Retained signed for reconciliation review; not converted to positive load",
+    "A701_phase_alias": "Main Incomer is the R-phase channel in the supplied workbook"
+  },
+  "generated_at": "2026-10-04T19:07:53.288297+00:00",
+  "timezone": "Asia/Kolkata",
+  "settings": {
+    "unit": "kW",
+    "unit_confirmed": true,
+    "timezone": "Asia/Kolkata",
+    "interval_minutes": 5,
+    "weather_interval_minutes": 60,
+    "weather_max_hold_minutes": 60,
+    "quality_min_day_coverage": 0.9,
+    "minimum_event_minutes": 5,
+    "outlier_caps_kw": {
+      "AC": 6,
+      "Washing Machine": 4,
+      "Geyser": 6,
+      "Oven": 6,
+      "Fridge": 2,
+      "Lights & Fans (combined)": 5,
+      "Mixed circuit": 10,
+      "Other": 10,
+      "Phase": 40
+    },
+    "state_noise_floor_kw": {
+      "AC": 0.03,
+      "Washing Machine": 0.015,
+      "Geyser": 0.05,
+      "Oven": 0.03,
+      "Fridge": 0.02
+    },
+    "seasons": {
+      "Summer": [
+        3,
+        4,
+        5
+      ],
+      "Monsoon": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "Mild": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ]
+    },
+    "note": "kW confirmed by user on 4 October 2026. Caps are review rules, editable in this file; they are not confirmed nameplate ratings. Five-minute readings treated as interval-representative power. Missing readings are never interpolated for electrical energy.",
+    "monitoring_start": "2025-05-01",
+    "monitoring_end": "2026-05-28"
+  },
+  "sources": [
+    {
+      "file": "Cielo F106.csv",
+      "sha256": "96ad42ac3a46c1b1e5212514807884cdb66e7ceaff203128e9dccffdb8606267",
+      "apartment": "Cielo F106",
+      "unit": "kW",
+      "start": "2025-05-02 18:05:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Elite A401.csv",
+      "sha256": "ef0cf176c0165b48245dbc701d9dd0687db8141583c944f5da57cce356d801a0",
+      "apartment": "Elite A401",
+      "unit": "kW",
+      "start": "2025-05-03 13:30:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Elite I 901.csv",
+      "sha256": "03dc008a0ef84006a691c175ad9e9dc7171ada0960271b01e42c74dc3b3e2552",
+      "apartment": "Elite I 901",
+      "unit": "kW",
+      "start": "2025-05-06 12:10:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Lagoona B104.csv",
+      "sha256": "730d67a6b92c5162850618be8b803f20331455fce963fe5437378108a44d426b",
+      "apartment": "Lagoona B104",
+      "unit": "kW",
+      "start": "2025-05-06 09:45:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Lakeside A 701.csv",
+      "sha256": "3715e13ab4ecedba501c0456f56f4f3be7ee15e76747952a3bae180ad8b03923",
+      "apartment": "Lakeside A 701",
+      "unit": "kW",
+      "start": "2025-08-30 12:40:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Lakeside B 101.csv",
+      "sha256": "a58d47af31af2ce2429fd9a2efdd8445cec90d657d7e8d0860332548e649b47c",
+      "apartment": "Lakeside B 101",
+      "unit": "kW",
+      "start": "2025-09-13 14:10:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Lakeside K 502.csv",
+      "sha256": "ef4ed0f33ee5928ca59cf92472292713704f29e27e0c8066cb96c28cd7361a4b",
+      "apartment": "Lakeside K 502",
+      "unit": "kW",
+      "start": "2025-05-03 17:55:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Lakeside O 1106.csv",
+      "sha256": "c8c74ec39cb15b1362cd04b17a283522f06a8ab07945fedb20055f7b4a248053",
+      "apartment": "Lakeside O 1106",
+      "unit": "kW",
+      "start": "2025-05-06 18:30:00",
+      "end": "2026-05-26 23:55:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Marvella G1403.csv",
+      "sha256": "e645a92b21440c743325adf6ba173f9ce455fb9cf62739bf8b8bcf3b3180723f",
+      "apartment": "Marvella G1403",
+      "unit": "kW",
+      "start": "2025-07-12 17:25:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Urabno Q606.csv",
+      "sha256": "c4cb2ed791cd1e2a6a0ddabc9a92e480e4c1a70e0e1b8e75228cf2746ac1d39f",
+      "apartment": "Urabno Q606",
+      "unit": "kW",
+      "start": "2025-05-02 14:35:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Urbano M501.csv",
+      "sha256": "7fbc7c1e7213c6e40009c8e6d7753bd4e4fd89d1bc6cd01f850700731da56038",
+      "apartment": "Urbano M501",
+      "unit": "kW",
+      "start": "2025-07-11 12:45:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Viento A 1102.csv",
+      "sha256": "9dc33a042c25b00fa172535e6156c1c896496e8e23ef70fc9b015d73416cc4b2",
+      "apartment": "Viento A 1102",
+      "unit": "kW",
+      "start": "2025-05-08 16:45:00",
+      "end": "2026-05-27 00:00:00",
+      "transformations": [
+        "parse timestamps",
+        "average duplicates",
+        "absolute electrical values",
+        "five-minute expected grid; sustained native 15-minute cadence uses explicit held interval support",
+        "editable spike review caps",
+        "adaptive thresholds and gap-reset hysteresis",
+        "apartment total is R+B+Y; all other electrical columns are submetered appliances/circuits",
+        "signed residual = total phases minus total appliances on complete shared timestamps"
+      ]
+    },
+    {
+      "file": "Palava weather data (1).csv",
+      "sha256": "6cd56c90370c2f9199ba09112b86b9d062956f2cc411e15411702d388ecb5971"
+    },
+    {
+      "file": "Lodha-Apartments-Sensors-mapping_modified(1).xlsx",
+      "sha256": "102d90a22fcb2610f8dead790dc4b093db3493b63b517739b3092f86c40a0452"
+    }
+  ],
+  "duplicate_file_excluded": "Lakeside K 502(1).csv is an identical copy; excluded",
+  "indoor_available": false,
+  "weather_records": 7292,
+  "population": "12 unique apartments; user-confirmed default cohort is latest 10",
+  "limitations": [
+    "States are inferred from electrical activity, not measured commands",
+    "No occupancy labels; activity score is not occupancy probability",
+    "Mixed AC/light circuit excluded from pure AC",
+    "Weather is mostly hourly and has gaps",
+    "Annualized candidate standby is a scenario, not measured annual energy"
+  ],
+  "insight_update_date": "2026-10-27",
+  "indoor_status": "No indoor time series supplied; room-specific upload or import required"
+}
